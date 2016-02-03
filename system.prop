@@ -5,7 +5,7 @@
 ro.product.device=onyx
 
 # Lcd Density
-ro.sf.lcd_density=480
+ro.sf.lcd_density=400
 
 # Radio
 rild.libpath=/vendor/lib/libril-qc-qmi-1.so
