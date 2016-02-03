@@ -2,6 +2,8 @@
 # system.prop for OnePlus X
 #
 
+ro.product.device=onyx
+
 # Lcd Density
 ro.sf.lcd_density=480
 
