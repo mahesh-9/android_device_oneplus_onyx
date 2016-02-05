@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2016 The CyanogenMod Project
+# Copyright (C) 2015 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -199,5 +199,8 @@ WIFI_DRIVER_FW_PATH_AP           := "ap"
 WPA_SUPPLICANT_VERSION           := VER_0_8_X
 
 TARGET_LDPRELOAD := libNimsWrap.so
+
+# To be removed
+BLOCK_BASED_OTA := false
 
 -include vendor/oneplus/onyx/BoardConfigVendor.mk
