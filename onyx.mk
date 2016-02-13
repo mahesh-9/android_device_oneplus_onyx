@@ -248,21 +248,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.qti.sensors.pam=false \
     ro.qti.sdk.sensors.gestures=false
 
-#Radio props
-PRODUCT_PROPERTY_OVERRIDES += \
-	persist.dpm.feature=7 \
-	persist.dpm.nsrm.bkg.evt=3955 \
-	persist.env.fastdorm.enabled=true \
-	persist.radio.adb_log_lvl=0x18 \
-	persist.radio.adb_log_on=1 \
-	persist.radio.data_no_toggle=1 \
-	persist.radio.disable_flexmap=1 \
-	persist.radio.eons.enabled=false \
-	persist.radio.msim.stackid_0=0 \
-	persist.radio.msim.stackid_1=1 \
-	persist.radio.multisim.config=dsds \
-	persist.radio.ril_payload_on=0
-
 PRODUCT_PROPERTY_OVERRIDES += \
     mm.enable.smoothstreaming=true \
     mm.enable.qcom_parser=3314291 \
