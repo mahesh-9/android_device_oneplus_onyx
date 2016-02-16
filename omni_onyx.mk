@@ -18,13 +18,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from onyx device
 $(call inherit-product, device/oneplus/onyx/onyx.mk)
 
-# Enhanced NFC
-$(call inherit-product, vendor/tipsy/config/nfc_enhanced.mk)
-
-# Inherit some common Tipsy stuff.
-$(call inherit-product, vendor/tipsy/config/common_full_phone.mk)
-
-PRODUCT_NAME := tipsy_onyx
+PRODUCT_NAME := omni_onyx
 PRODUCT_DEVICE := onyx
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_MODEL := OnePlus X
