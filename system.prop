@@ -3,6 +3,7 @@
 #
 
 ro.product.device=onyx
+ro.product.brand=OnePlus
 
 # Lcd Density
 ro.sf.lcd_density=400
