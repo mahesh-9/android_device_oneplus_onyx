@@ -307,6 +307,8 @@
          that can be set by the user. -->
     <integer name="config_screenBrightnessDim">10</integer>
 
+    <integer name="config_buttonBrightnessSettingDefault">0</integer>
+
     <!-- Default color for notification LED is white. -->
     <color name="config_defaultNotificationColor">#ffffffff</color>
 
