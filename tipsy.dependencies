@@ -15,7 +15,7 @@
     "remote": "github",
     "repository": "TipsyOs-Devices/vendor_oneplus",
     "target_path": "vendor/oneplus",
-    "branch": "exp"
+    "branch": "cm-13.0"
   },
   {
     "remote": "github",
