@@ -1,1 +1,3 @@
-add_lunch_combo tipsy_onyx-eng
+add_lunch_combo sshd_onyx-user
+add_lunch_combo sshd_onyx-userdebug
+add_lunch_combo sshd_onyx-eng
