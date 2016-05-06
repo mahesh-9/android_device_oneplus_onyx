@@ -1,3 +1,3 @@
-add_lunch_combo aosp_onyx-user
-add_lunch_combo aosp_onyx-userdebug
-add_lunch_combo aosp_onyx-eng
+add_lunch_combo zos_onyx-user
+add_lunch_combo zos_onyx-userdebug
+add_lunch_combo zos_onyx-eng
