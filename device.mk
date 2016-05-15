@@ -160,6 +160,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     keystore.msm8974
 
+# FMRadio
+PRODUCT_PACKAGES += \
+    FMRadio
+
 # Lights
 PRODUCT_PACKAGES += \
     lights.msm8974
