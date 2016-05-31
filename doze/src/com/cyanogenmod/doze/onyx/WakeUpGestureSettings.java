@@ -16,7 +16,7 @@
 
 package com.cyanogenmod.doze.onyx;
 
-import com.android.internal.util.slim.ScreenType;
+import org.cyanogenmod.internal.util.ScreenType;
 
 import android.app.ActionBar;
 import android.os.Bundle;
